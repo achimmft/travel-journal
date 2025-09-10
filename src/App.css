@@ -1,0 +1,22 @@
+body {
+  margin: 0
+}
+
+header {
+  background-color: rgb(202, 79, 79);
+  display:flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+span {
+  margin-left: 10px;
+  color: white;
+  font-family: inter;
+}
